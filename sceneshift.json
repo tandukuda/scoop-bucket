@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "description": "SceneShift is a terminal-first process optimizer.",
+  "homepage": "https://github.com/tandukuda/SceneShift",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/tandukuda/SceneShift/releases/download/v2.0.0/SceneShift.exe",
+      "hash": "EB51C45FAE1A19A65A47D6BF1113D94DD03F407C5373C88D5196A43A82E3171A"
+    }
+  },
+  "bin": "SceneShift.exe",
+  "checkver": "github"
+}
