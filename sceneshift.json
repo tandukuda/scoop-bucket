@@ -5,8 +5,8 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tandukuda/SceneShift/releases/download/v2.0.0/SceneShift.exe",
-      "hash": "EB51C45FAE1A19A65A47D6BF1113D94DD03F407C5373C88D5196A43A82E3171A"
+      "url": "https://github.com/tandukuda/SceneShift/releases/download/v2.1.0/SceneShift.exe",
+      "hash": "8dd94c62812fc96fbf87bdf50768fc6f8900b1b3018e4684154abb3edf49f640"
     }
   },
   "bin": "SceneShift.exe",
