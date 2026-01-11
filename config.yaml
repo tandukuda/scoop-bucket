@@ -1,0 +1,25 @@
+hotkeys:
+  up:
+    - up
+    - k
+  down:
+    - down
+    - j
+  toggle:
+    - space
+    - ' '
+  select_all:
+    - a
+  deselect_all:
+    - x
+  kill_mode:
+    - K
+  restore_mode:
+    - R
+  quit:
+    - q
+    - ctrl+c
+  help:
+    - '?'
+presets: []
+apps: []
